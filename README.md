@@ -1,4 +1,4 @@
-# Data analysis of wind turbines
+# Data analysis of an Excel file
 
 ## What does the code do?
 
